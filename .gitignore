@@ -1,0 +1,11 @@
+# Encrypted vault data (sensitive)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
