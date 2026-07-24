@@ -123,13 +123,16 @@ TEST 5 PASSWORD/
     7.  🔄  Change Master Password
     0.  🚪  Exit
 ---
+```
+
+---
 
 ## 🎓 Internship Details
 
-This project was developed as part of my **Python Programming Internship** at **Codtech IT Solutions Private Limited**. During this internship, I gained hands-on experience in building secure Python applications and applying industry-standard programming practices.
+This project was developed as part of my **Python Programming Internship** at **Codtech IT Solutions Private Limited**. During this internship, I gained hands-on experience in building secure Python applications and implementing modern security practices.
 
-| **Field** | **Details** |
-|------------|-------------|
+| Field | Details |
+|-------|---------|
 | **Organization** | Codtech IT Solutions Private Limited |
 | **Domain** | Python Programming |
 | **Duration** | 4 Weeks |
@@ -147,8 +150,6 @@ This project was developed as part of my **Python Programming Internship** at **
 - File Handling & JSON
 - Cryptography Library
 - CLI Application Development
-- Secure Coding Practices
-
 ---
 
 ## 📄 License
