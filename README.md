@@ -122,7 +122,32 @@ TEST 5 PASSWORD/
     6.  🎲  Generate a Password
     7.  🔄  Change Master Password
     0.  🚪  Exit
-```
+---
+
+## 🎓 Internship Details
+
+This project was developed as part of my **Python Programming Internship** at **Codtech IT Solutions Private Limited**. During this internship, I gained hands-on experience in building secure Python applications and applying industry-standard programming practices.
+
+| **Field** | **Details** |
+|------------|-------------|
+| **Organization** | Codtech IT Solutions Private Limited |
+| **Domain** | Python Programming |
+| **Duration** | 4 Weeks |
+| **Internship Period** | 04 July 2026 – 01 August 2026 |
+| **Intern ID** | CITS6495 |
+
+### Technologies & Skills Applied
+
+- Python 3
+- Object-Oriented Programming (OOP)
+- AES Encryption (Fernet)
+- Password Hashing (Scrypt)
+- PBKDF2 Key Derivation
+- Secure Authentication
+- File Handling & JSON
+- Cryptography Library
+- CLI Application Development
+- Secure Coding Practices
 
 ---
 
